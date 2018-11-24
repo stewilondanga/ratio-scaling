@@ -47,13 +47,14 @@
   }
 }
 
-/*@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .my_container ul .block {
     width: 33.33%;
     padding-bottom: 33.33%;
   }
 }
-@media screen and (max-width: 600px) {
+
+/*@media screen and (max-width: 600px) {
   .my_container ul .block {
     width: 50%;
     padding-bottom: 50%;
