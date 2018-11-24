@@ -19,13 +19,14 @@
   height: 1.5em;
 }
 
-/*.my_container ul {
+.my_container ul {
   list-style: none;
   margin: 0 0 0 0;
   padding: 0 0 0 0;
   clear: both;
 }
-.my_container ul .block {
+
+/*.my_container ul .block {
   width: 20%;
   height: auto;
   position: relative;
