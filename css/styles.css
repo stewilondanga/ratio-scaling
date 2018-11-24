@@ -36,10 +36,11 @@
   transition: 0.8s ease;
 }
 
-/*.my_container ul .block:hover span {
+.my_container ul .block:hover span {
   height: 50%;
 }
-@media screen and (max-width: 1280px) {
+
+/*@media screen and (max-width: 1280px) {
   .my_container ul .block {
     width: 25%;
     padding-bottom: 25%;
